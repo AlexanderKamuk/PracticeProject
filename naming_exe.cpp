@@ -1,4 +1,4 @@
-class sum {
+class Sum {
   public:
       int d(int* a, int size) {
           int s = 0;
